@@ -3,6 +3,6 @@
 
  [Projeto>>>](https://emersonlucirio.github.io/Blog_Dev_Web/)
 
-![logo-emerson-400px](https://github.com/DUG1914/Blog_Dev_Web/assets/112041088/d130694f-38e1-4ee0-90b1-85e88fd29be1)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
 
